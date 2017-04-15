@@ -1,1 +1,1 @@
-# Akumabot
+# Akumabot.
